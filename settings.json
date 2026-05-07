@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lucascow",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "LifestealSMSM.aternos.me",
     "port": 43178,
-    "version": "",
+    "version": "26.1.2 (60)",
     "try-creative": false
   },
   "position": {
